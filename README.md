@@ -11,11 +11,11 @@
 ## 📈 Statistics
 <div align="center">
 
-![Top Langs](https://git-stats-plum.vercel.app/api/top-langs/?username=Charishma24003&layout=compact&theme=transparent&disable_animations=true)
+![Top Langs](https://git-stats-plum.vercel.app/api/top-langs/?username=ashwiii11&layout=compact&theme=transparent&disable_animations=true)
 
-![Statscard](https://git-stats-plum.vercel.app/api?username=Charishma24003&show_icons=true&theme=transparent&include_all_commits=true&disable_animations=true)
+![Statscard](https://git-stats-plum.vercel.app/api?username=ashwiii11&show_icons=true&theme=transparent&include_all_commits=true&disable_animations=true)
   
-![GitHub Streak](https://readme-streak-stats-snowy.vercel.app/?user=Charishma24003&theme=transparent&ring=ffa500&fire=ffa500&currStreakNum=fff&disable_animations=true)
+![GitHub Streak](https://readme-streak-stats-snowy.vercel.app/?user=ashwiii11&theme=transparent&ring=ffa500&fire=ffa500&currStreakNum=fff&disable_animations=true)
 
 ## ⌛ WakaTime Stats
 
