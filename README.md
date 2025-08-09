@@ -50,7 +50,7 @@ No activity tracked
 <h3>Front-End Frameworks & Libraries</h3>
     <div>
         <a href="https://reactjs.org/docs/getting-started.html" title="ReactJS"><img src="https://skillicons.dev/icons?i=react" alt="ReactJS" width="40" height="40"/></a>&emsp;
-        <a href="https://nextjs.org/docs/getting-started" title="NextJS"><img src="https://skillicons.dev/icons?i=nextjs" alt="NextJS" width="40" height="40"/></a>&emsp;
+        <a href="https://nextjs.org/docs/getting-started" title="NodeJS"><img src="https://skillicons.dev/icons?i=nextjs" alt="NodeJS" width="40" height="40"/></a>&emsp;
         <!--<a href="https://astro.build/" title="Astro"><img src="https://skillicons.dev/icons?i=astro" alt="Astro" width="40" height="40"/></a>&emsp;
         <a href="https://tailwindcss.com/docs/installation" title="TailwindCSS"><img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" width="40" height="40"/></a>&emsp;
         <a href="https://preactjs.com/" title="Preact.js"><img src="https://raw.githubusercontent.com/ChiragChrg/ChiragChrg.github.io/main/icons/preactjs.svg" alt="Preact.js" width="40" height="40"/></a>&emsp;
