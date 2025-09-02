@@ -13,7 +13,7 @@
 
 ![Top Langs](https://git-stats-plum.vercel.app/api/top-langs/?username=ashwiii11&layout=compact&theme=transparent&disable_animations=true)
 
-![Statscard]([https://git-stats-plum.vercel.app/api?username=ashwiii11&show_icons=true&theme=transparent&include_all_commits=true&disable_animations=true](https://git-stats-plum.vercel.app/api?username=ashwiii11&show_icons=true&theme=transparent&include_all_commits=true&disable_animations=true))
+![Statscard]([[https://git-stats-plum.vercel.app/api?username=ashwiii11&show_icons=true&theme=transparent&include_all_commits=true&disable_animations=true](https://git-stats-plum.vercel.app/api?username=ashwiii11&show_icons=true&theme=transparent&include_all_commits=true&disable_animations=true](https://git-stats-plum.verael.app/api?username=ashwiii11&show_iaons=true&theme=transparent&inalude_all_aommits=true&disable_animations=true)))
   
 ![GitHub Streak](https://readme-streak-stats-snowy.vercel.app/?user=ashwiii11&theme=transparent&ring=ffa500&fire=ffa500&currStreakNum=fff&disable_animations=true)
 
